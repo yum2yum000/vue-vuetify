@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#app {
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    direction: rtl!important;
+}
+.p-25{
+    padding:35px!important;
+}
+.authur-font{
+    font-size:12px;
+}
+.custom-card-1:hover {
+    top:-2px;
+    transition: 0.4s;
+}
+.v-pagination button.primary
+{
+    background-color:orange!important;
+    border-color:orange!important;
+    outline:0!important;
+}
+.no-text-decoration
+{
+    text-decoration: none!important;
+}
+.no-text-decoration
+{
+    text-decoration: none!important;
+}
+.author:hover{
+    color:#e4ba3d;
+}
+.v-list-item--link{
+    direction:ltr!important;
+    padding-left:1px!Important;
+}
+.style13 {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #4785a4 inset;
+    position:relative;
+    top:-20px;
+    margin-top:0px!important;
+}
+
+.margin-users{
+    position:relative;
+    top:-47px;
+}
+.font-5{
+    font-size:17px!important;
+    margin-right:5px;
+
+}
+.margin-5{
+    margin-top:10px;
+    display: inline-block;
+}
+.font-3{
+    font-size:14px!important;
+}
+@media(max-width:1200px)
+{
+    .order-mobile{
+        order:3!Important;
+    }
+    .hidden-mobile{
+        display:none!important;
+    }
+}
+.v-application--wrap{
+    min-height:unset!important;
+}
+.msg.left{
+    float: left;
+}
+.msg:after{
+
+    border: 15px solid transparent;
+    position: absolute;
+    content: "";
+    top: 17px;
+}
+
+.msg.right:after{
+
+    border-right-color: #e3e4e6;
+    left: -27px;
+}
+.msg.left:after{
+
+    border-left-color: #e3e4e6;
+    right: -27px;
+}
+.msg{
+    position: relative;
+    padding: 10px;
+    background-color: #e3e4e6;
+    border-radius: 5px;
+}
+
+.msg .header{
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+.msg .header .name{
+    float: right;
+}
+.msg .header .date{
+    float: left;
+}
+
+.msg .content{
+    margin-top: 10px;
+}
+
+.v-application .orange{
+    background-color:#ffc107!important;
+}
+.v-application .gray{
+    background-color:#2196f3!important;
+}
+.shadow-form
+{
+    box-shadow: -1px 0px 5px 5px #f0f0f0;
+}
+.card-show
+{
+    -webkit-box-shadow: -1px 0px 5px 3px rgba(209,209,209,1);
+    -moz-box-shadow: -1px 0px 5px 3px rgba(209,209,209,1);
+    box-shadow: -1px 0px 5px 3px rgba(209,209,209,1)!important;
+}
+
+.font-size-12
+{
+    font-size:14px!important;
+}
+.font-size-10
+{
+    font-size:12px!important;
+}
+.font-size-11
+{
+    font-size:13px!important;
+}
+.v-card__title.headline
+{
+    direction:ltr!Important;
+}
+.v-toolbar__items{
+    direction:ltr!important;
+}
+.v-window__container {
+    height: 0;
+}
